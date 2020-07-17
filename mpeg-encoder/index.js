@@ -4,7 +4,7 @@ module.exports = () => {
   )
 
   let CHANNELS = 1
-  let KBPS = 128
+  let KBPS = 16
   let DEFAULT_SAMPLE_RATE = 44100
 
   let encoder
